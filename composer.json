@@ -1,0 +1,10 @@
+{
+    "name": "si/si-api-php",
+    "type": "application",
+    "description": "SI-PHP Application",
+    "license": "MIT",
+    "authors": [{
+        "name": "Satish Mehta",
+        "email": "satish.m@solutionsinfini.com"
+    }]
+}
